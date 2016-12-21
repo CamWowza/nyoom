@@ -17,6 +17,7 @@
 #navbar-item
 {
 	float:left;
+	border-right:solid 1px #111;
 }
 
 #navbar-item a
